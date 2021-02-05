@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on : AI - Symbolic & Machine Learning
+- 🔭 I’m currently working on : Narrow AI 
 - 🌱 I’m currently learning : C & Python
-- 👯 I’m looking to collaborate on : AI
-- 🤔 I’m looking for help with : Embedded Systems
+- 👯 I’m looking to collaborate on : Both Machine & Symbolic Learning
+- 🤔 I’m looking for help with : Embedded Systems with AI
 - 💬 Ask me about : Python
 - 📫 How to reach me : ahkijimbi@outlook.com
 - 😄 Pronouns : Us..!
