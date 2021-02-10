@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on : Narrow AI 
 - 🌱 I’m currently learning : C, Python & ML
 - 👯 I’m looking to collaborate on : Machine Learning
-- 🤔 I’m looking for help with : Embedded Systems with AI
+- 🤔 I’m looking for help with : 
 - 💬 Ask me about : Python
 - 📫 How to reach me : ahkijimbi@outlook.com
 - 😄 Pronouns : Us..!
