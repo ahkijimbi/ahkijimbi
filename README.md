@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on : Narrow AI 
-- 🌱 I’m currently learning : C, Python & ML
-- 👯 I’m looking to collaborate on : Machine Learning
+- 🌱 I’m currently learning : C, Systems architecture
 - 🤔 I’m looking for help with : 
 - 💬 Ask me about : Python
 - 📫 How to reach me : ahkijimbi@outlook.com
