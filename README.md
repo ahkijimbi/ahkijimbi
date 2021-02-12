@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning : C, Systems architecture
-- 🤔 I’m looking for help with : 
+- 🌱 I’m currently learning : C Language & Systems Architecture
+- 🤔 I’m looking for help with : Machine Learning
 - 💬 Ask me about : Python
 - 📫 How to reach me : ahkijimbi@outlook.com
 - 😄 Pronouns : Us..!
