@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning : C Language & Firmware Engineering
-- 🤔 I’m looking for help with : Machine Learning
+- 🤔 I’m looking for help with : Embedded Systems
 - 💬 Ask me about : Python
 - 📫 How to reach me : ahkijimbi@outlook.com
 - 😄 Pronouns : Us..!
