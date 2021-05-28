@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning : C Language & Firmware Engineering
-- 🤔 I’m looking for help with : Embedded Systems
+- 🌱 I’m currently learning : C & Python Languages
 - 💬 Ask me about : Python
 - 📫 How to reach me : ahkijimbi@outlook.com
 - 😄 Pronouns : Us..!
 - ⚡ Fun fact : I have failed a lot 🤓
-- 🕸 Wherever smart people work, doors are unlocked
+- 🕸 Wherever smart people work, doors are unlocked Join me 
