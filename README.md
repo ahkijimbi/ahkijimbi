@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning : C & Python Languages
-- 💬 Ask me about : Python
+- 🌱 I’m still learning : The C Programming Lanuage & Python 
 - 📫 How to reach me : ahkijimbi@outlook.com
-- 😄 Pronouns : Us..!
 - ⚡ Fun fact : I have failed a lot 🤓
 - 🕸 Wherever smart people work, doors are unlocked Join me 
