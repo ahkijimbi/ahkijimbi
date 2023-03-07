@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Abdul
 
 <!--
 **ahkijimbi/ahkijimbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact : I have failed a lot 🤓
 - 🕸 Wherever smart people work, doors are unlocked Join me 
+- 📫 How to reach me: ahakijimbi@gmail.com
